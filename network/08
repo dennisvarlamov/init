@@ -1,0 +1,4 @@
+Amazon Technologies Inc.
+Amazon.com, Inc.
+
+#whois `nslookup slash16.org | grep "Address" | head -2 | tail -1 | cut -d ' ' -f 2` | grep -v -E '^#' | grep -v -E '^$'
